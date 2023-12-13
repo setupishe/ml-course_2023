@@ -111,3 +111,13 @@ venv.bak/
 *__solved*
 *__draft*
 testing/
+homeworks/hw07_mnist_classification/MNIST/raw/t10k-images-idx3-ubyte
+homeworks/hw07_mnist_classification/MNIST/raw/t10k-images-idx3-ubyte.gz
+homeworks/hw07_mnist_classification/MNIST/raw/t10k-labels-idx1-ubyte
+homeworks/hw07_mnist_classification/MNIST/raw/t10k-labels-idx1-ubyte.gz
+homeworks/hw07_mnist_classification/MNIST/raw/train-images-idx3-ubyte
+homeworks/hw07_mnist_classification/MNIST/raw/train-images-idx3-ubyte.gz
+homeworks/hw07_mnist_classification/MNIST/raw/train-labels-idx1-ubyte
+homeworks/hw07_mnist_classification/MNIST/raw/train-labels-idx1-ubyte.gz
+homeworks/hw07_mnist_classification/hw07_data_dict.npy.1
+homeworks/hw07_mnist_classification/submission_dict_hw07.json
